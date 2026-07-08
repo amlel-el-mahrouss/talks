@@ -1,4 +1,4 @@
-# Amlal's Working Talks (AWT)
+# Amlal's Talks
 
 ## Similar Works:
 
